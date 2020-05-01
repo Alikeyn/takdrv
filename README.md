@@ -1,5 +1,5 @@
 Tank drive
-  ------------------> RobotContainer.java içindekiler <-----------
+  ------------------> RobotContainer.java içindekiler <---------------------------------------------------------------------------------
 /*----------------------------------------------------------------------------*/
 /* Copyright (c) 2018-2019 FIRST. All Rights Reserved.                        */
 /* Open Source Software - may be modified and shared by FRC teams. The code   */
@@ -53,7 +53,7 @@ public class RobotContainer
     public RobotContainer() {
     }
 }
------------------------------>ExampleSubsystem.java içindekiler <-----------------------------------------------------
+----------------------------->ExampleSubsystem.java içindekiler <-----------------------------------------------------------------------
 /*----------------------------------------------------------------------------*/
 /* Copyright (c) 2018-2019 FIRST. All Rights Reserved.                        */
 /* Open Source Software - may be modified and shared by FRC teams. The code   */
@@ -88,7 +88,7 @@ public class ExampleSubsystem extends SubsystemBase {
 
     }
 }
-----------------------------> Constants.java içindekiler <--------------------------------
+----------------------------> Constants.java içindekiler <------------------------------------------------------------------------------
 /*----------------------------------------------------------------------------*/
 /* Copyright (c) 2018-2019 FIRST. All Rights Reserved.                        */
 /* Open Source Software - may be modified and shared by FRC teams. The code   */
@@ -125,7 +125,7 @@ public enum  class Constants {
 
 
 
---------------------------------->ExampleCommand.java içindekiler<---------------------------------------------------
+--------------------------------->ExampleCommand.java içindekiler<----------------------------------------------------------------------
 /*----------------------------------------------------------------------------*/
 /* Copyright (c) 2018-2019 FIRST. All Rights Reserved.                        */
 /* Open Source Software - may be modified and shared by FRC teams. The code   */
@@ -157,7 +157,7 @@ public class ExampleCommand extends CommandBase
         addRequirements(subsystem);
     }
 }
----------------------------------------->Robot.java içindekiler <-------------------------------------------
+---------------------------------------->Robot.java içindekiler <-----------------------------------------------------------------------
 
 /*----------------------------------------------------------------------------*/
 /* Copyright (c) 2017-2019 FIRST. All Rights Reserved.                        */
